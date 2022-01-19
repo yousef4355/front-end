@@ -1,0 +1,27 @@
+
+
+ 
+
+
+    
+   /* body  {
+    background-image: url("https://images.unsplash.com/photo-1623407176536-6b5a8c020bd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60");
+  }  */
+
+  body {
+    background-image: url("https://images.unsplash.com/photo-1623407151184-6c2e03a29709?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60");
+  }
+  .button{
+    display:ruby;
+    padding:.5rem 2rem;
+    border:.2rem solid var(--red);
+    color:var(--red);
+    cursor: pointer;
+    font-size: .5rem;
+    border-radius: .5rem;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+    margin-top: .5rem;
+  }
+  
